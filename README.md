@@ -18,5 +18,5 @@
 
 ### 🤝 Let’s Connect
 - GitHub: https://github.com/SadiyaPuspo
-- LinkedIn: [(add link)](https://www.linkedin.com/in/sadiya-puspo/)
-- Google Scholar: (https://scholar.google.com/citations?hl=en&user=-BDt9hoAAAAJ&view_op=list_works&sortby=pubdate)
+- LinkedIn: [https://www.linkedin.com/in/sadiya-puspo/]
+- Google Scholar: [https://scholar.google.com/citations?hl=en&user=-BDt9hoAAAAJ&view_op=list_works&sortby=pubdate]
